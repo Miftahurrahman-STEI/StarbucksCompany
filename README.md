@@ -1,2 +1,2 @@
 # StarbucksCompany
-create by @miftah
+Starbuck Company website clone 
